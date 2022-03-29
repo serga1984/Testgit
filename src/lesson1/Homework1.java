@@ -2,6 +2,6 @@ package lesson1;
 
 public class Homework1 {
     public static void main(String[] args) {
-        System.out.println("Решение первой задачи");
+        System.out.println("Решение первой задачи!");
     }
 }
